@@ -1,0 +1,21 @@
+[_tb_system_call storage=system/_preview.ks ]
+
+[mask time=10]
+[bg  time="10"  method="crossfade"  storage="tent_grab_panty.png"  ]
+[tb_show_message_window] 
+[chara_mod  name="Natsume"  time="10"  cross="true"  storage="chara/1/bikini_exp_6.png"  ]
+[tb_image_show  time="10"  storage="default/2.png"  width="315"  height="79"  x="70"  y="1420"  name="img_203"  ]
+[tb_image_show  time="10"  storage="default/1.png"  width="315"  height="79"  x="70"  y="1420"  name="img_206"  ]
+[mask_off time=10]
+[tb_start_text mode=1 ]
+S-Stop...! You're making me wet down there...![p]
+[_tb_end_text]
+
+[tb_image_show  time="200"  storage="default/2.png"  width="315"  height="79"  x="70"  y="1420"  name="img_79"  ]
+[tb_start_text mode=1 ]
+Okay, okay. Hehe.[p]
+[_tb_end_text]
+
+[tb_image_hide  time="1000"  ]
+[tb_hide_message_window  ]
+[jump  storage="Beach_arrive.ks"  target="*tent_choice_undressed"  ]
