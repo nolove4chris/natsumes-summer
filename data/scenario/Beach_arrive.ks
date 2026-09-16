@@ -380,7 +380,7 @@ D-Don't stare at me down there like that...[p]
 
 [tb_image_hide  time="1000"  ]
 [tb_hide_message_window  ]
-[clickable  storage="Beach_arrive.ks"  x="100"  y="100"  width="100"  height="100"  target=""  ]
+[clickable  storage="Beach_arrive.ks"  x="576"  y="843"  width="272"  height="235"  target="*tetn_panty_bra"  ]
 [s  ]
 *tetn_panty_bra
 
@@ -419,7 +419,7 @@ S-Stop...[p]
 
 [tb_image_hide  time="1000"  ]
 [tb_hide_message_window  ]
-[clickable  storage="Beach_arrive.ks"  x="419"  y="548"  width="159"  height="176"  target=""  ]
+[clickable  storage="Beach_arrive.ks"  x="614"  y="845"  width="244"  height="243"  target="*tent_panty_bra_grab"  ]
 [s  ]
 *tent_panty_bra_grab
 

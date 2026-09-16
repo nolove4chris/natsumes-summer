@@ -1,3 +1,6 @@
 [eval exp="f._system_preview_ks='Beach_arrive.ks'"] 
+[preload  storage="./data/bgimage/tent_panty_bra_grab.png"  ]
+[preload  storage="./data/fgimage/default/1.png"  ]
 [preload  storage="./data/fgimage/default/2.png"  ]
+[preload  storage="./data/bgimage/tent_grab_panty.png"  ]
 [return] 
